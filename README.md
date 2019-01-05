@@ -26,5 +26,5 @@ While the JMeter GUI is great for setting up and debugging your test plan, it ca
 
 ## Screenshots
 
-![User Defined Variables](/fm-jmeter-variables.png)
-![Summary Report](/fm-jmeter-summary.gif)
+![User Defined Variables](/images/fm-jmeter-variables.png)
+![Summary Report](/images/fm-jmeter-summary.gif)
