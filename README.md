@@ -9,6 +9,7 @@ This test plan file provides a starting template for performance and load testin
 * Create, edit, and find records via JDBC.
 * Create, edit, and find records via XML.
 * Log out of FileMaker Data API
+* See screenshot below for example results. App design, host configuration, and network latency will have a huge impact on the results. These sample results are probably not relevant to your specific environment. Customize the template and test in your own environment! 
 
 ## Getting Started
 * Install [Apache JMeter](http://jmeter.apache.org). This template was tested with JMeter 4.0. All of the requests work with FileMaker Server 17. The FileMaker Data API tests work with FileMaker Cloud 1.17. 
