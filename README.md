@@ -17,7 +17,7 @@ This test plan file provides a starting template for performance and load testin
 * Edit the User Defined Variables page. If you start with the Content Management.fmp12 starter solution, you'll only need to change the server, user, and password variables.
 * For JDBC tests, add the fmjdbc.jar driver to the JMeter lib folder.
 * Enable/disable thread groups and adjust the number of threads and loop count as appropriate for your environment.
-* Customize as needed.
+* Customize as needed. Scale up cautiously and only use in dev/testing environments...testing with too many users will crush your server.
 
 ## Command Line Testing
 While the JMeter GUI is great for setting up and debugging your test plan, it can use a lot of resources. Testing from the command line may give better results. You can test directly on a FileMaker Cloud instance via SSH using a command such as:
