@@ -5,9 +5,9 @@ Apache JMeter test plan template for FileMaker Server or FileMaker Cloud perform
 This test plan file provides a starting template for performance and load testing for various FileMaker API's, including FileMaker Data API (REST), JDBC, and XML. The template includes the following features:
 * User-configurable variables
 * Log in to FileMaker Data API to receive an access token. The template uses a single token for all tests.
-* Create, edit, and find records via FileMaker Data API requests.
+* Create, edit, and find records and run FileMaker scripts via FileMaker Data API requests.
 * Create, edit, and find records via JDBC.
-* Create, edit, and find records via XML.
+* Create, edit, and find records and run FileMaker scripts via XML.
 * Log out of FileMaker Data API
 * See screenshot below for example results. App design, host configuration, and network latency will have a huge impact on the results. These sample results are probably not relevant to your specific environment. Customize the template and test in your own environment! 
 
